@@ -1,5 +1,5 @@
 #### Bankify App
 
-A sample web page. It's not yet finished and responsive, but so far a good practice though...
+A sample web page. It's not yet finished and responsive though...
 
-#### [App Link:](https://bankify-paul.netlify.app/)
+#### App Link: [https://bankify-webpage.netlify.app/](https://bankify-webpage.netlify.app/)
